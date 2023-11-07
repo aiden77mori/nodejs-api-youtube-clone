@@ -36,7 +36,7 @@
 
 ## Frontend Repo
 
-Frontend was developed with vue js and vuetify [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
+Frontend was developed with vue js and vuetify [VueTube](https://github.com/aiden77mori/vue-youtube-clone)
 
 ## API Documentation
 
@@ -145,12 +145,7 @@ node run dev
 
 ![Screenshot](screenshots/16%20-%20Upload%20Thumbnail%20Modal.jpg)
 
-For more screenshots check out the vue frontend repo [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
 
 ## License
 
 This project is licensed under the MIT License
-
-## Developed by Reagan Ekhameye (Tech Reagan)
-
-Reach me on twitter [@techreagan](https://www.twitter.com/techreagan)
